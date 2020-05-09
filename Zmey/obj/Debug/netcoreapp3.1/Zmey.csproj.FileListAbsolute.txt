@@ -1,0 +1,13 @@
+C:\Projects\SNAKEE\Zmey\Zmey\obj\Debug\netcoreapp3.1\Zmey.csproj.CoreCompileInputs.cache
+C:\Projects\SNAKEE\Zmey\Zmey\obj\Debug\netcoreapp3.1\Zmey.AssemblyInfoInputs.cache
+C:\Projects\SNAKEE\Zmey\Zmey\obj\Debug\netcoreapp3.1\Zmey.AssemblyInfo.cs
+C:\Projects\SNAKEE\Zmey\Zmey\bin\Debug\netcoreapp3.1\Zmey.exe
+C:\Projects\SNAKEE\Zmey\Zmey\bin\Debug\netcoreapp3.1\Zmey.deps.json
+C:\Projects\SNAKEE\Zmey\Zmey\bin\Debug\netcoreapp3.1\Zmey.runtimeconfig.json
+C:\Projects\SNAKEE\Zmey\Zmey\bin\Debug\netcoreapp3.1\Zmey.runtimeconfig.dev.json
+C:\Projects\SNAKEE\Zmey\Zmey\bin\Debug\netcoreapp3.1\Zmey.dll
+C:\Projects\SNAKEE\Zmey\Zmey\bin\Debug\netcoreapp3.1\Zmey.pdb
+C:\Projects\SNAKEE\Zmey\Zmey\obj\Debug\netcoreapp3.1\Zmey.csprojAssemblyReference.cache
+C:\Projects\SNAKEE\Zmey\Zmey\obj\Debug\netcoreapp3.1\Zmey.dll
+C:\Projects\SNAKEE\Zmey\Zmey\obj\Debug\netcoreapp3.1\Zmey.pdb
+C:\Projects\SNAKEE\Zmey\Zmey\obj\Debug\netcoreapp3.1\Zmey.genruntimeconfig.cache
