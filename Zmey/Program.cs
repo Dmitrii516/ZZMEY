@@ -4,30 +4,22 @@ namespace Zmey
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
 
-            Point p1 = new Point();
-            p1.x = 1;
-            p1.y = 1;
-            p1.sym = '#';
+            Point p1 = new Point(1,1,'$');
+            
+            Point p2 = new Point(4,4,'%');
 
-            Point p2 = new Point();
-            p2.x = 4;
-            p2.y = 4;
-            p2.sym = '$';
+            Point p3 = new Point();
 
             p1.Draw();
             p2.Draw();
 
-     
-            static void Draw(int x, int y, char sym)
-            {
-            Console.SetCursorPosition(x, y);
-            Console.Write(sym);
-            }
-     
+            Point p4 = new Point();
+
             Console.Read();
         }
     }
