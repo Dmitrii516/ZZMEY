@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Net.Http.Headers;
 
 namespace Zmey
 {
@@ -13,12 +15,16 @@ namespace Zmey
             
             Point p2 = new Point(4,4,'%');
 
-            Point p3 = new Point();
+            Point p3 = new Point(34,32,'q');
 
             p1.Draw();
             p2.Draw();
+            p3.Draw();
 
-            Point p4 = new Point();
+            HorLine line = new HorLine(12,22,12,'@');
+            line.Drow();
+           
+                           
 
             Console.Read();
         }
